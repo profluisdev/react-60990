@@ -5,7 +5,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/download "Visual Studio Code")
 - [Google Chrome](https://www.google.com/intl/es-419/chrome/ "Google Chrome")
 
-## Extenciones necesarias para Visual Studio Code
+## Extensiones necesarias para Visual Studio Code
 
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets "ES7+ React/Redux/React-Native snippets")
 - [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor "Excalidraw")
@@ -14,7 +14,7 @@
 - [Auto Barrel](https://marketplace.visualstudio.com/items?itemName=mikehanson.auto-barrel "Auto Barrel")
 - [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules "CSS Modules")
 
-## Extenciones opcionales para Visual Studio Code
+## Extensiones opcionales para Visual Studio Code
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag "Auto Rename Tag")
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments "Better Comments")
