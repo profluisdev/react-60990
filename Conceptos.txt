@@ -1,0 +1,19 @@
+Conceptos importantes
+
+- React: es una biblioteca de JavaScript desarrollada por Facebook que es ampliamente utilizada para crear SPAs y aplicaciones web
+de una sola página. React se enfoca en la creación de interfaces de usuario (UI) interactivas y reactivas.
+
+- SPA: Una SPA (Single Page Application) es un tipo de aplicación web que carga una sola página HTML inicial y, en lugar de cargar 
+páginas web completas cada vez que un usuario navega a diferentes secciones, utiliza técnicas de JavaScript para cambiar 
+dinámicamente el contenido de esa página única. Esto proporciona una experiencia de usuario más fluida y rápida, 
+ya que no es necesario recargar toda la página.
+
+- Virtual DOM: React utiliza un concepto llamado Virtual DOM para mejorar el rendimiento. En lugar de actualizar 
+directamente el DOM del navegador cada vez que cambia el estado de la aplicación, React crea una representación 
+virtual del DOM y compara los cambios entre la representación virtual y el DOM real para actualizar solo las partes que han cambiado. 
+Esto reduce la carga en el navegador y mejora la velocidad de la aplicación.
+
+- Node: Node.js es un entorno de ejecución de JavaScript, que le permite al código en js ser ejecutado en nuestra computadora.
+Podemos darle a node un archivo de js y éste puede ejecutarlo, y darle acceso a recursos de nuestra computadora.
+Url de descarga: https://nodejs.org/en  (Descargar e instalar la versión LTS).
+Comando de consola para verificar la instalación: node -v 
