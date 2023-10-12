@@ -17,3 +17,15 @@ Esto reduce la carga en el navegador y mejora la velocidad de la aplicación.
 Podemos darle a node un archivo de js y éste puede ejecutarlo, y darle acceso a recursos de nuestra computadora.
 Url de descarga: https://nodejs.org/en  (Descargar e instalar la versión LTS).
 Comando de consola para verificar la instalación: node -v 
+
+- Npm: Cuando usamos Node.js, rápidamente tenemos que instalar módulos nuevos (librerías), ya que al ser un sistema fuertemente 
+modular viene prácticamente “vacío”. Por lo tanto, para utilizar una funcionalidad de alguna librería publicada, 
+deberemos instalar módulos adicionales. Esta operación se realiza de forma muy sencilla con la herramienta npm 
+(Node Package Manager).
+
+- Vite: es una herramienta de compilación que tiene como objetivo proporcionar una experiencia de desarrollo más rápida 
+y ágil para proyectos web modernos. 
+Es un entorno de desarrollo web moderno que se utiliza para crear aplicaciones web y proyectos de JavaScript. 
+Vite se ha vuelto popular en la comunidad de desarrollo web debido a su velocidad y eficiencia en la construcción y desarrollo de aplicaciones.
+Url: https://vitejs.dev/
+Comando de consola para la creación de un proyecto: npm create vite@latest
