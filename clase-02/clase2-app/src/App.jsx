@@ -12,11 +12,9 @@ function App() {
       <h1>Componente APP</h1>
       <h3>Nombre: {name} </h3>
       <hr />
-      
         <ul>  
           {arr.map( element => <li>{element}</li>)}
         </ul>
-
     </div>
   )
 }
