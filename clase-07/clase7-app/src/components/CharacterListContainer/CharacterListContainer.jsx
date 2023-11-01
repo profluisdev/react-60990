@@ -5,6 +5,7 @@ import { CharacterList } from "../CharacterList/CharacterList";
 export const CharacterListContainer = () => {
   const [characters, setCharacters] = useState([]);
   const [page, setPage] = useState(1);
+  
   const getCharacters = async () => {
     const resp = await fetch(`https://rickandmortyapi.com/api/character/?page=${page}`);
     const data = await resp.json();
