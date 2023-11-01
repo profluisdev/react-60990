@@ -111,3 +111,11 @@ Una promesa cuenta con tres estados posibles:
    En este caso, la Promesa contiene un valor resultante.
 3- Rechazada (Rejected): Una Promesa está rechazada cuando la operación asincrónica falla. En este caso, 
    la Promesa contiene una razón o un objeto que indica el motivo del fallo.
+
+- API: Una API es un conjunto de reglas y funciones que permiten a las aplicaciones comunicarse y colaborar, 
+lo que facilita la creación de software más poderoso y versátil.
+
+- Cors: Las siglas "CORS" significan "Cross-Origin Resource Sharing" en inglés, lo que se traduce al español 
+como "Compartir Recursos entre Orígenes Cruzados". CORS es una medida de seguridad implementada en los navegadores 
+web para permitir que los servidores web restrinjan qué recursos (como datos, imágenes, fuentes, etc.) 
+pueden ser solicitados desde una página web alojada en un dominio diferente al dominio del servidor
