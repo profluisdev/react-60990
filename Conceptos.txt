@@ -123,3 +123,8 @@ pueden ser solicitados desde una página web alojada en un dominio diferente al 
 - Custom Hook: es una función JavaScript que te permite encapsular lógica reutilizable en una aplicación de React. 
 Los custom hooks son una forma de compartir lógica entre componentes sin necesidad de duplicar código. 
 Estas funciones personalizadas siguen las reglas de los hooks de React y pueden utilizar otros hooks existentes. 
+
+Evento: es un estímulo programático, que puede ser provocado de manera automática, o ser el resultado 
+de una interacción del usuario con la UI, que pueden ser haciendo un click, movimientos del mouse, 
+presionando teclado, etc.
+Documentación: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Events
