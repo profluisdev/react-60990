@@ -11,7 +11,7 @@ export const NavBar = () => {
         <Link to={"/"}>
           <button className="btn btn-outline-dark mx-2">Home</button>
         </Link>
-        <Link to={"/category/calzado"}>
+        <Link to={"/category/calzados"}>
           <button className="btn btn-outline-dark mx-2">Calzados</button>
         </Link>
         <Link to={"/category/ropa"}>
